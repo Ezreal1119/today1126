@@ -1,6 +1,2 @@
 level 10;
-<<<<<<< HEAD
 level 0;
-=======
-nmsl biegai;
->>>>>>> d85a5f4637398839dd286974292ee52938a341d8
